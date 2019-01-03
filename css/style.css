@@ -1,0 +1,279 @@
+body {
+	font-size: 15px;
+}
+
+.wrapper {
+	width: 66.6667em;
+	margin: 0 auto;
+}
+
+.navbarMenu {
+	margin-left: auto;
+	margin-right: auto;
+	width: 25em;
+	display: block;
+	padding-bottom: 1em;
+	padding-top: .5em;
+}
+
+.topLink {
+	display: inline-block;
+	width: 25%;
+	text-decoration: none;
+	font-family: "Playfair Display", serif;
+	font-weight: bold;
+	color: black;
+}
+
+.top {
+	width: 65%;
+	margin: 0 auto;
+	padding-right: 4em;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.imgTop {
+	padding: 1em;
+	float: left;
+	padding-bottom: 4em;
+}
+
+.borderImgTop {
+	width: 23.33em;
+	height: 31.87em;
+	border: 2px solid #b7dbc8;
+	position: relative;
+	top: 2em;
+	left: 2em;
+	margin-right: 0;
+}
+
+.imgTel {
+	position: relative;
+	bottom: 31.5em;
+	left: 4.5em;
+}
+
+.plantyLogo {
+	padding-top: 8.5em;
+	float: left;
+	padding-left: 1em;
+	width: 18em
+}
+
+.underPlanty {
+	display: inline-block;
+	font-family: 'Montserrat', sans-serif;
+	font-size: .68em;
+	font-weight: bold;
+	padding-bottom: 1em;
+	position: relative;
+	bottom: 1.6em;
+	left: 4.2em
+}
+
+.topText {
+	font-size: .66em;
+	padding-left: 2em;
+	padding-right: 2em;
+	text-align: justify;
+	font-family: 'Muli', sans-serif;
+	line-height: 1.8;
+}
+
+.buttonDownload {
+	background-color: #b7dbc8;
+	width: 26.15em;
+	height: 4em;
+	position: relative;
+	left: 2em;
+	top: 5.1em;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: .65em;
+	letter-spacing: 2px;
+}
+
+.banner {
+	padding-top: .7em;
+}
+
+.bannerText {
+	font-family: "Playfair Display", serif;
+	font-size: 1.7em;
+	font-style: italic;
+	position: relative;
+	bottom: 3.9em;
+	left: 20em;
+	color: white;
+	line-height: 1.5em;
+}
+
+.bottom {
+	width: 60%;
+	margin: 0 auto;
+}
+
+.expertsText {
+	font-family: "Playfair Display", serif;
+	font-size: 2.6em;
+	font-style: italic;
+	padding-bottom: 1em;
+}
+
+.experts {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.expertsQuote1 {
+	width: 20em;
+	height: 11em;
+	border: 2px solid #b7dbc8;
+	margin: 0 auto;
+	position: relative;
+	left: 2.5em;
+	margin-bottom: 3em;
+}
+
+.expertsQuote2 {
+	width: 20em;
+	height: 11em;
+	border: 2px solid #b7dbc8;
+	margin: 0 auto;
+	position: relative;
+	left: 3.2em;
+	top: 5.4em;
+}
+
+.foto1 {
+	width: 5.46em;
+	height: 5.46em;
+	border: 2px solid #b7dbc8;
+	border-radius: 50%;
+	position: relative;
+	top: -7em;
+	left: -2.7em;
+}
+
+.foto2 {
+	width: 5.46em;
+	height: 5.46em;
+	border: 2px solid #b7dbc8;
+	border-radius: 50%;
+	position: relative;
+	top: -7em;
+	left: -2.7em;
+}
+
+.name {
+	font-family: "Playfair Display", serif;
+	font-size: 1.5em;
+	font-style: italic;
+	padding: .3em;
+	padding-left: 2.4em;
+	padding-top: .7em;
+}
+
+.job {
+	font-family: 'Muli', sans-serif;
+	text-transform: uppercase;
+	padding-left: 5.1em;
+	font-size: .7em;
+}
+
+.quote {
+	font-family: 'Muli', sans-serif;
+	text-align: justify;
+	padding: 2em 1em 1em 4.5em;
+	font-size: .8em;
+	line-height: 1.6
+}
+
+.contact {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.contactLeft {
+	width: 50%;
+}
+
+.form {
+	padding: 1.5em 0;
+	font-family: 'Muli', sans-serif;
+	font-size: .7em;
+	line-height: 2em;
+}
+
+.form2 {
+	width: 23.9em;
+}
+
+.buttonSend {
+	background-color: #b7dbc8;
+	width: 33.1em;
+	height: 5em;
+	position: relative;
+	display: table-cell;
+	color: white;
+	font-family: 'Muli', sans-serif;
+	font-size: .65em;
+	border: 0;
+	letter-spacing: 2px;
+	top: 5.2em;
+}
+
+.contactRight {
+	padding-top: 2em;
+	width: 50%;
+	height: 32em;
+}
+
+.imgBottom {
+	width: 18.5em;
+	position: relative;
+	left: 4.65em;
+}
+
+.borderImgBottom {
+	width: 18.5em;
+	height: 26em;
+	border: 2px solid #b7dbc8;
+	position: relative;
+	top: -27.7em;
+	right: -3.2em;
+}
+
+.footer {
+	background-color: #b7dbc8;
+	height: 6em;
+	font-size: 0.7em;
+	color: white;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.footerContainer {
+	width: 60%;
+	padding-top: 1.6em;
+	font-family: 'Muli', sans-serif;
+	line-height: 1.7em;
+	padding-left: 20%
+}
+
+.socialIcon {
+	padding: 1em;
+}
+
+.insta {
+	padding-right: 15%;
+}
